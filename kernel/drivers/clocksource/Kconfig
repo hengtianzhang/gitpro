@@ -1,0 +1,6 @@
+menu "Clock Source drivers"
+
+config ARM_ARCH_TIMER
+	bool
+
+endmenu

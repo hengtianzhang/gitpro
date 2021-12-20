@@ -1,0 +1,10 @@
+/* SPDX-License-Identifier: GPL-2.0 */
+#ifndef __UAPI_RTOCHIUS_DMA_DIRECTION_H_
+#define __UAPI_RTOCHIUS_DMA_DIRECTION_H_
+
+#define	DMA_BIDIRECTIONAL	0
+#define	DMA_TO_DEVICE		1
+#define DMA_FROM_DEVICE		2
+#define	DMA_NONE			3
+
+#endif /* !__UAPI_RTOCHIUS_DMA_DIRECTION_H_ */

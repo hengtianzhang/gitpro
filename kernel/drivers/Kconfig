@@ -1,0 +1,14 @@
+# SPDX-License-Identifier: GPL-2.0
+menu "Device Drivers"
+
+source "kernel/drivers/clocksource/Kconfig"
+
+source "kernel/drivers/firmware/Kconfig"
+
+source "kernel/drivers/irqchip/Kconfig"
+
+source "kernel/drivers/of/Kconfig"
+
+source "kernel/drivers/serial/Kconfig"
+
+endmenu

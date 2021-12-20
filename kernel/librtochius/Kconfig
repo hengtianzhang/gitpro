@@ -1,0 +1,7 @@
+#
+# Library librtochius configuration
+#
+
+menu "librtochius routines"
+
+endmenu

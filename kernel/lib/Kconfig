@@ -1,0 +1,7 @@
+#
+# Library configuration
+#
+
+menu "Library routines"
+
+endmenu

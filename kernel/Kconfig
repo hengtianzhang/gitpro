@@ -1,0 +1,15 @@
+# SPDX-License-Identifier: GPL-2.0
+#
+menu "Rtochius Kernel configuration"
+
+source "kernel/init/Kconfig"
+
+source "kernel/drivers/Kconfig"
+
+source "kernel/lib/Kconfig"
+
+source "kernel/librtochius/Kconfig"
+
+source "kernel/lib/Kconfig.debug"
+
+endmenu
